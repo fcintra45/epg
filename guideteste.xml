@@ -1,0 +1,1282 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Bis">
+    <display-name lang="pt">Bis</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20181013000000 -0300" stop="20181013010000 -0300" channel="Bis">
+    <title lang="pt">Planeta Atlântida 2018</title>
+    <sub-title lang="pt">Anitta</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013010000 -0300" stop="20181013030000 -0300" channel="Bis">
+    <title lang="pt">Música Boa Ao Vivo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013030000 -0300" stop="20181013033000 -0300" channel="Bis">
+    <title lang="pt">Álbum Musical</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013033000 -0300" stop="20181013040000 -0300" channel="Bis">
+    <title lang="pt">Video Killed The Radio Star</title>
+    <sub-title lang="pt">Crowded House</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013040000 -0300" stop="20181013050000 -0300" channel="Bis">
+    <title lang="pt">Benicassim 2014 Festival Highlights</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013050000 -0300" stop="20181013060000 -0300" channel="Bis">
+    <title lang="pt">Live From The Artists Den</title>
+    <sub-title lang="pt">John Legend</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013060000 -0300" stop="20181013070000 -0300" channel="Bis">
+    <title lang="pt">Alicia Keys Plays Baloise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013070000 -0300" stop="20181013090000 -0300" channel="Bis">
+    <title lang="pt">Michael Jackson's</title>
+    <sub-title lang="pt">This Is It</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013090000 -0300" stop="20181013100000 -0300" channel="Bis">
+    <title lang="pt">Studio In Session</title>
+    <sub-title lang="pt">parte 1</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013100000 -0300" stop="20181013110000 -0300" channel="Bis">
+    <title lang="pt">Vampire Weekend</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013110000 -0300" stop="20181013120000 -0300" channel="Bis">
+    <title lang="pt">Live Artists Den</title>
+    <sub-title lang="pt">Lily Allen</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013120000 -0300" stop="20181013130000 -0300" channel="Bis">
+    <title lang="pt">Jazz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013130000 -0300" stop="20181013133000 -0300" channel="Bis">
+    <title lang="pt">Setlist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013133000 -0300" stop="20181013140000 -0300" channel="Bis">
+    <title lang="pt">Rock Legends</title>
+    <sub-title lang="pt">Mamas Papas</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013140000 -0300" stop="20181013150000 -0300" channel="Bis">
+    <title lang="pt">Live From The Artists Den</title>
+    <sub-title lang="pt">John Legend</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013150000 -0300" stop="20181013160000 -0300" channel="Bis">
+    <title lang="pt">Alicia Keys Plays Baloise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013160000 -0300" stop="20181013163000 -0300" channel="Bis">
+    <title lang="pt">Dance Paradise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013163000 -0300" stop="20181013170000 -0300" channel="Bis">
+    <title lang="pt">Video Killed The Radio Star</title>
+    <sub-title lang="pt">Roxy Music</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013170000 -0300" stop="20181013180000 -0300" channel="Bis">
+    <title lang="pt">Benicassim 2014 Festival Highlights</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013180000 -0300" stop="20181013190000 -0300" channel="Bis">
+    <title lang="pt">Versões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013190000 -0300" stop="20181013200000 -0300" channel="Bis">
+    <title lang="pt">Experimente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013200000 -0300" stop="20181013203000 -0300" channel="Bis">
+    <title lang="pt">Vamos Tocar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013203000 -0300" stop="20181013213000 -0300" channel="Bis">
+    <title lang="pt">Música Boa Ao Vivo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013213000 -0300" stop="20181013223000 -0300" channel="Bis">
+    <title lang="pt">Jazz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013223000 -0300" stop="20181013230000 -0300" channel="Bis">
+    <title lang="pt">Setlist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013230000 -0300" stop="20181013233000 -0300" channel="Bis">
+    <title lang="pt">Lounge</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013233000 -0300" stop="20181014000000 -0300" channel="Bis">
+    <title lang="pt">A Volta ao Mundo em 80 Videoclipes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181014000000 -0300" stop="20181014010000 -0300" channel="Bis">
+    <title lang="pt">Studio in Session</title>
+    <sub-title lang="pt">parte 2</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181014010000 -0300" stop="20181014020000 -0300" channel="Bis">
+    <title lang="pt">Benicassim 2014 Festival Highlights</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181014020000 -0300" stop="20181014030000 -0300" channel="Bis">
+    <title lang="pt">Jazz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181014030000 -0300" stop="20181014033000 -0300" channel="Bis">
+    <title lang="pt">Setlist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181014033000 -0300" stop="20181014043000 -0300" channel="Bis">
+    <title lang="pt">Versões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181014043000 -0300" stop="20181014050000 -0300" channel="Bis">
+    <title lang="pt">The Ronnie Wood Show</title>
+    <sub-title lang="pt">Mick Hucknall</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181014050000 -0300" stop="20181014060000 -0300" channel="Bis">
+    <title lang="pt">Planeta Atlântida 2018</title>
+    <sub-title lang="pt">Anitta</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181014060000 -0300" stop="20181014070000 -0300" channel="Bis">
+    <title lang="pt">Bon Jovi: In Concert</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181014070000 -0300" stop="20181014080000 -0300" channel="Bis">
+    <title lang="pt">Marcus Miller Plays Baloise Session</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181014080000 -0300" stop="20181014083000 -0300" channel="Bis">
+    <title lang="pt">Video Killed The Radio Star</title>
+    <sub-title lang="pt">Roxy Music</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181014083000 -0300" stop="20181014090000 -0300" channel="Bis">
+    <title lang="pt">The Ronnie Wood Show</title>
+    <sub-title lang="pt">Mick Hucknall</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181014090000 -0300" stop="20181014100000 -0300" channel="Bis">
+    <title lang="pt">Versões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181014100000 -0300" stop="20181014110000 -0300" channel="Bis">
+    <title lang="pt">Live From The Artists Den</title>
+    <sub-title lang="pt">John Legend</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181014110000 -0300" stop="20181014120000 -0300" channel="Bis">
+    <title lang="pt">Alicia Keys Plays Baloise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181014120000 -0300" stop="20181014130000 -0300" channel="Bis">
+    <title lang="pt">Michael Jackson's</title>
+    <sub-title lang="pt">This Is It</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181014130000 -0300" stop="20181014133000 -0300" channel="Bis">
+    <title lang="pt">Setlist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181014133000 -0300" stop="20181014140000 -0300" channel="Bis">
+    <title lang="pt">Canto Só</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181014140000 -0300" stop="20181014143000 -0300" channel="Bis">
+    <title lang="pt">Planeta Atlântida 2018</title>
+    <sub-title lang="pt">Anitta</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181014143000 -0300" stop="20181014163000 -0300" channel="Bis">
+    <title lang="pt">Música Boa Ao Vivo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181014163000 -0300" stop="20181014170000 -0300" channel="Bis">
+    <title lang="pt">Superstar Djs With Annie Mac</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181014170000 -0300" stop="20181014180000 -0300" channel="Bis">
+    <title lang="pt">Front And Center Presents: Buddy Guy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181014180000 -0300" stop="20181014190000 -0300" channel="Bis">
+    <title lang="pt">Experimente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181014190000 -0300" stop="20181014193000 -0300" channel="Bis">
+    <title lang="pt">Vamos Tocar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181014193000 -0300" stop="20181014200000 -0300" channel="Bis">
+    <title lang="pt">Lounge</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181014200000 -0300" stop="20181014203000 -0300" channel="Bis">
+    <title lang="pt">Dance Paradise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181014203000 -0300" stop="20181014213000 -0300" channel="Bis">
+    <title lang="pt">The Rolling Stones</title>
+    <sub-title lang="pt">Crossfire Hurricane</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181014213000 -0300" stop="20181014223000 -0300" channel="Bis">
+    <title lang="pt">The Rolling Stones</title>
+    <sub-title lang="pt">Crossfire Hurricane</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181014223000 -0300" stop="20181014230000 -0300" channel="Bis">
+    <title lang="pt">Setlist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181014230000 -0300" stop="20181014233000 -0300" channel="Bis">
+    <title lang="pt">Stand Your Ground</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181014233000 -0300" stop="20181015000000 -0300" channel="Bis">
+    <title lang="pt">Álbum Musical</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015000000 -0300" stop="20181015020000 -0300" channel="Bis">
+    <title lang="pt">Música Boa Ao Vivo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015020000 -0300" stop="20181015030000 -0300" channel="Bis">
+    <title lang="pt">The Rolling Stones</title>
+    <sub-title lang="pt">Crossfire Hurricane</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015030000 -0300" stop="20181015040000 -0300" channel="Bis">
+    <title lang="pt">The Rolling Stones</title>
+    <sub-title lang="pt">Crossfire Hurricane</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015040000 -0300" stop="20181015050000 -0300" channel="Bis">
+    <title lang="pt">Studio in Session</title>
+    <sub-title lang="pt">parte 2</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015050000 -0300" stop="20181015060000 -0300" channel="Bis">
+    <title lang="pt">Experimente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015060000 -0300" stop="20181015063000 -0300" channel="Bis">
+    <title lang="pt">Stand Your Ground</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015063000 -0300" stop="20181015070000 -0300" channel="Bis">
+    <title lang="pt">Video Killed The Radio Star</title>
+    <sub-title lang="pt">Crowded House</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015070000 -0300" stop="20181015080000 -0300" channel="Bis">
+    <title lang="pt">Benicassim 2014 Festival Highlights</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015080000 -0300" stop="20181015090000 -0300" channel="Bis">
+    <title lang="pt">Studio in Session</title>
+    <sub-title lang="pt">parte 2</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015090000 -0300" stop="20181015093000 -0300" channel="Bis">
+    <title lang="pt">Rock Legends</title>
+    <sub-title lang="pt">Mamas Papas</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015093000 -0300" stop="20181015100000 -0300" channel="Bis">
+    <title lang="pt">Superstar Djs With Annie Mac</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015100000 -0300" stop="20181015103000 -0300" channel="Bis">
+    <title lang="pt">Planeta Atlântida 2018</title>
+    <sub-title lang="pt">Anitta</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015103000 -0300" stop="20181015123000 -0300" channel="Bis">
+    <title lang="pt">Música Boa Ao Vivo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015123000 -0300" stop="20181015130000 -0300" channel="Bis">
+    <title lang="pt">The Ronnie Wood Show</title>
+    <sub-title lang="pt">Mick Hucknall</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015130000 -0300" stop="20181015133000 -0300" channel="Bis">
+    <title lang="pt">Video Killed The Radio Star</title>
+    <sub-title lang="pt">Crowded House</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015133000 -0300" stop="20181015143000 -0300" channel="Bis">
+    <title lang="pt">The Rolling Stones</title>
+    <sub-title lang="pt">Crossfire Hurricane</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015143000 -0300" stop="20181015150000 -0300" channel="Bis">
+    <title lang="pt">Setlist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015150000 -0300" stop="20181015153000 -0300" channel="Bis">
+    <title lang="pt">Lounge</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015153000 -0300" stop="20181015160000 -0300" channel="Bis">
+    <title lang="pt">A Volta ao Mundo em 80 Videoclipes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015160000 -0300" stop="20181015170000 -0300" channel="Bis">
+    <title lang="pt">Versões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015170000 -0300" stop="20181015180000 -0300" channel="Bis">
+    <title lang="pt">Gregory Porter</title>
+    <sub-title lang="pt">Live In Berlin</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015180000 -0300" stop="20181015190000 -0300" channel="Bis">
+    <title lang="pt">Setlist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015190000 -0300" stop="20181015193000 -0300" channel="Bis">
+    <title lang="pt">Álbum Musical</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015193000 -0300" stop="20181015203000 -0300" channel="Bis">
+    <title lang="pt">Experimente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015203000 -0300" stop="20181015210000 -0300" channel="Bis">
+    <title lang="pt">Rock Legends</title>
+    <sub-title lang="pt">Neil Young</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015210000 -0300" stop="20181015220000 -0300" channel="Bis">
+    <title lang="pt">Guitar Center Sessions</title>
+    <sub-title lang="pt">Megadeth</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015220000 -0300" stop="20181015223000 -0300" channel="Bis">
+    <title lang="pt">Nine Inch Nails</title>
+    <sub-title lang="pt">Austin City Limits</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015223000 -0300" stop="20181015231500 -0300" channel="Bis">
+    <title lang="pt">SóTocaTop</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015231500 -0300" stop="20181015234500 -0300" channel="Bis">
+    <title lang="pt">Canto Só</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015234500 -0300" stop="20181016001000 -0300" channel="Bis">
+    <title lang="pt">Dance Paradise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016001000 -0300" stop="20181016010000 -0300" channel="Bis">
+    <title lang="pt">Paul Simon: Live At Hyde Park</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016010000 -0300" stop="20181016020000 -0300" channel="Bis">
+    <title lang="pt">David Gilmour: Live In Pompeii</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016020000 -0300" stop="20181016030000 -0300" channel="Bis">
+    <title lang="pt">Later With Jools Holland</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016030000 -0300" stop="20181016033000 -0300" channel="Bis">
+    <title lang="pt">Stand Your Ground</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016033000 -0300" stop="20181016040000 -0300" channel="Bis">
+    <title lang="pt">Canto Só</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016040000 -0300" stop="20181016043000 -0300" channel="Bis">
+    <title lang="pt">Lounge</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016043000 -0300" stop="20181016050000 -0300" channel="Bis">
+    <title lang="pt">Vamos Tocar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016050000 -0300" stop="20181016060000 -0300" channel="Bis">
+    <title lang="pt">Versões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016060000 -0300" stop="20181016070000 -0300" channel="Bis">
+    <title lang="pt">Benicassim 2014 Festival Highlights</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016070000 -0300" stop="20181016080000 -0300" channel="Bis">
+    <title lang="pt">Front And Center Presents: Buddy Guy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016080000 -0300" stop="20181016083000 -0300" channel="Bis">
+    <title lang="pt">The Ronnie Wood Show</title>
+    <sub-title lang="pt">Mick Hucknall</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016083000 -0300" stop="20181016090000 -0300" channel="Bis">
+    <title lang="pt">Álbum Musical</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016090000 -0300" stop="20181016093000 -0300" channel="Bis">
+    <title lang="pt">Canto Só</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016093000 -0300" stop="20181016100000 -0300" channel="Bis">
+    <title lang="pt">Vamos Tocar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016100000 -0300" stop="20181016110000 -0300" channel="Bis">
+    <title lang="pt">Jazz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016110000 -0300" stop="20181016113000 -0300" channel="Bis">
+    <title lang="pt">Setlist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016113000 -0300" stop="20181016120000 -0300" channel="Bis">
+    <title lang="pt">Lounge</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016120000 -0300" stop="20181016130000 -0300" channel="Bis">
+    <title lang="pt">Experimente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016130000 -0300" stop="20181016133000 -0300" channel="Bis">
+    <title lang="pt">Rock Legends</title>
+    <sub-title lang="pt">Neil Young</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016133000 -0300" stop="20181016143000 -0300" channel="Bis">
+    <title lang="pt">The Rolling Stones</title>
+    <sub-title lang="pt">Crossfire Hurricane</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016143000 -0300" stop="20181016150000 -0300" channel="Bis">
+    <title lang="pt">Setlist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016150000 -0300" stop="20181016153000 -0300" channel="Bis">
+    <title lang="pt">Dance Paradise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016153000 -0300" stop="20181016160000 -0300" channel="Bis">
+    <title lang="pt">Stand Your Ground</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016160000 -0300" stop="20181016180000 -0300" channel="Bis">
+    <title lang="pt">Música Boa Ao Vivo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016180000 -0300" stop="20181016190000 -0300" channel="Bis">
+    <title lang="pt">Setlist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016190000 -0300" stop="20181016193000 -0300" channel="Bis">
+    <title lang="pt">Audioarena Originals</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016193000 -0300" stop="20181016200000 -0300" channel="Bis">
+    <title lang="pt">Stand Your Ground</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016200000 -0300" stop="20181016203000 -0300" channel="Bis">
+    <title lang="pt">A Volta ao Mundo em 80 Videoclipes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016203000 -0300" stop="20181016210000 -0300" channel="Bis">
+    <title lang="pt">Superstar Djs With Annie Mac</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016210000 -0300" stop="20181016230000 -0300" channel="Bis">
+    <title lang="pt">Beyoncé &amp; Jay Z: On The Run</title>
+    <sub-title lang="pt">Live In Paris</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181016230000 -0300" stop="20181017000000 -0300" channel="Bis">
+    <title lang="pt">Experimente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181017000000 -0300" stop="20181017010000 -0300" channel="Bis">
+    <title lang="pt">Radio 1's Big Weekend 2017: Highlights 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181017010000 -0300" stop="20181017020000 -0300" channel="Bis">
+    <title lang="pt">Alanis Morrissette: Live At Montreaux 2012</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181017020000 -0300" stop="20181017030000 -0300" channel="Bis">
+    <title lang="pt">Front And Center Presents: Buddy Guy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181017030000 -0300" stop="20181017040000 -0300" channel="Bis">
+    <title lang="pt">Gregory Porter</title>
+    <sub-title lang="pt">Live In Berlin</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181017040000 -0300" stop="20181017043000 -0300" channel="Bis">
+    <title lang="pt">Audioarena Originals</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181017043000 -0300" stop="20181017050000 -0300" channel="Bis">
+    <title lang="pt">Video Killed The Radio Star</title>
+    <sub-title lang="pt">Crowded House</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181017050000 -0300" stop="20181017060000 -0300" channel="Bis">
+    <title lang="pt">Paul Simon: Live At Hyde Park</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181017060000 -0300" stop="20181017070000 -0300" channel="Bis">
+    <title lang="pt">David Gilmour: Live In Pompeii</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181017070000 -0300" stop="20181017080000 -0300" channel="Bis">
+    <title lang="pt">Benicassim 2014 Festival Highlights</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181017080000 -0300" stop="20181017090000 -0300" channel="Bis">
+    <title lang="pt">Versões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181017090000 -0300" stop="20181017100000 -0300" channel="Bis">
+    <title lang="pt">Gregory Porter</title>
+    <sub-title lang="pt">Live In Berlin</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181017100000 -0300" stop="20181017110000 -0300" channel="Bis">
+    <title lang="pt">The Rolling Stones</title>
+    <sub-title lang="pt">Crossfire Hurricane</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181017110000 -0300" stop="20181017120000 -0300" channel="Bis">
+    <title lang="pt">The Rolling Stones</title>
+    <sub-title lang="pt">Crossfire Hurricane</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181017120000 -0300" stop="20181017130000 -0300" channel="Bis">
+    <title lang="pt">Front And Center Presents: Buddy Guy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181017130000 -0300" stop="20181017133000 -0300" channel="Bis">
+    <title lang="pt">Álbum Musical</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181017133000 -0300" stop="20181017140000 -0300" channel="Bis">
+    <title lang="pt">Audioarena Originals</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181017140000 -0300" stop="20181017150000 -0300" channel="Bis">
+    <title lang="pt">Paul Simon: Live At Hyde Park</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181017150000 -0300" stop="20181017160000 -0300" channel="Bis">
+    <title lang="pt">David Gilmour: Live In Pompeii</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181017160000 -0300" stop="20181017163000 -0300" channel="Bis">
+    <title lang="pt">Vamos Tocar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181017163000 -0300" stop="20181017170000 -0300" channel="Bis">
+    <title lang="pt">The Ronnie Wood Show</title>
+    <sub-title lang="pt">Mick Hucknall</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181017170000 -0300" stop="20181017180000 -0300" channel="Bis">
+    <title lang="pt">Later With Jools Holland</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181017180000 -0300" stop="20181017190000 -0300" channel="Bis">
+    <title lang="pt">Setlist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181017190000 -0300" stop="20181017193000 -0300" channel="Bis">
+    <title lang="pt">Lounge</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181017193000 -0300" stop="20181017200000 -0300" channel="Bis">
+    <title lang="pt">Dance Paradise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181017200000 -0300" stop="20181017210000 -0300" channel="Bis">
+    <title lang="pt">Versões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181017210000 -0300" stop="20181017213000 -0300" channel="Bis">
+    <title lang="pt">Planeta Atlântida 2018</title>
+    <sub-title lang="pt">Jota Quest</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181017213000 -0300" stop="20181017233000 -0300" channel="Bis">
+    <title lang="pt">Música Boa Ao Vivo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181017233000 -0300" stop="20181018000000 -0300" channel="Bis">
+    <title lang="pt">Lounge</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018000000 -0300" stop="20181018010000 -0300" channel="Bis">
+    <title lang="pt">Guitar Center Sessions</title>
+    <sub-title lang="pt">Megadeth</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018010000 -0300" stop="20181018020000 -0300" channel="Bis">
+    <title lang="pt">Nine Inch Nails</title>
+    <sub-title lang="pt">Austin City Limits</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018020000 -0300" stop="20181018030000 -0300" channel="Bis">
+    <title lang="pt">Experimente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018030000 -0300" stop="20181018040000 -0300" channel="Bis">
+    <title lang="pt">Studio in Session</title>
+    <sub-title lang="pt">parte 2</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018040000 -0300" stop="20181018043000 -0300" channel="Bis">
+    <title lang="pt">Superstar Djs With Annie Mac</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018043000 -0300" stop="20181018050000 -0300" channel="Bis">
+    <title lang="pt">A Volta ao Mundo em 80 Videoclipes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018050000 -0300" stop="20181018060000 -0300" channel="Bis">
+    <title lang="pt">Radio 1's Big Weekend 2017: Highlights 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018060000 -0300" stop="20181018070000 -0300" channel="Bis">
+    <title lang="pt">Alanis Morrissette: Live At Montreaux 2012</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018070000 -0300" stop="20181018090000 -0300" channel="Bis">
+    <title lang="pt">Música Boa Ao Vivo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018090000 -0300" stop="20181018093000 -0300" channel="Bis">
+    <title lang="pt">Canto Só</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018093000 -0300" stop="20181018100000 -0300" channel="Bis">
+    <title lang="pt">Dance Paradise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018100000 -0300" stop="20181018110000 -0300" channel="Bis">
+    <title lang="pt">Paul Simon: Live At Hyde Park</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018110000 -0300" stop="20181018120000 -0300" channel="Bis">
+    <title lang="pt">David Gilmour: Live In Pompeii</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018120000 -0300" stop="20181018130000 -0300" channel="Bis">
+    <title lang="pt">Benicassim 2014 Festival Highlights</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018130000 -0300" stop="20181018140000 -0300" channel="Bis">
+    <title lang="pt">Benicassim 2014 Festival Highlights</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018140000 -0300" stop="20181018150000 -0300" channel="Bis">
+    <title lang="pt">Radio 1's Big Weekend 2017: Highlights 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018150000 -0300" stop="20181018160000 -0300" channel="Bis">
+    <title lang="pt">Alanis Morrissette: Live At Montreaux 2012</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018160000 -0300" stop="20181018170000 -0300" channel="Bis">
+    <title lang="pt">Studio in Session</title>
+    <sub-title lang="pt">parte 2</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018170000 -0300" stop="20181018173000 -0300" channel="Bis">
+    <title lang="pt">Rock Legends</title>
+    <sub-title lang="pt">Neil Young</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018173000 -0300" stop="20181018180000 -0300" channel="Bis">
+    <title lang="pt">Superstar Djs With Annie Mac</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018180000 -0300" stop="20181018190000 -0300" channel="Bis">
+    <title lang="pt">Setlist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018190000 -0300" stop="20181018200000 -0300" channel="Bis">
+    <title lang="pt">Versões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018200000 -0300" stop="20181018203000 -0300" channel="Bis">
+    <title lang="pt">Lounge</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018203000 -0300" stop="20181018210000 -0300" channel="Bis">
+    <title lang="pt">Video Killed The Radio Star</title>
+    <sub-title lang="pt">Roxy Music</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018210000 -0300" stop="20181018220000 -0300" channel="Bis">
+    <title lang="pt">Tony Bennett &amp; Lady Gaga: Cheek To Cheek Live!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018220000 -0300" stop="20181018230000 -0300" channel="Bis">
+    <title lang="pt">Norah Jones Plays Baloise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018230000 -0300" stop="20181018233000 -0300" channel="Bis">
+    <title lang="pt">Canto Só</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018233000 -0300" stop="20181019000000 -0300" channel="Bis">
+    <title lang="pt">Stand Your Ground</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019000000 -0300" stop="20181019020000 -0300" channel="Bis">
+    <title lang="pt">Beyoncé &amp; Jay Z: On The Run</title>
+    <sub-title lang="pt">Live In Paris</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019020000 -0300" stop="20181019023000 -0300" channel="Bis">
+    <title lang="pt">Dance Paradise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019023000 -0300" stop="20181019030000 -0300" channel="Bis">
+    <title lang="pt">Rock Legends</title>
+    <sub-title lang="pt">Neil Young</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019030000 -0300" stop="20181019040000 -0300" channel="Bis">
+    <title lang="pt">Later With Jools Holland</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019040000 -0300" stop="20181019050000 -0300" channel="Bis">
+    <title lang="pt">Front And Center Presents: Buddy Guy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019050000 -0300" stop="20181019060000 -0300" channel="Bis">
+    <title lang="pt">Guitar Center Sessions</title>
+    <sub-title lang="pt">Megadeth</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019060000 -0300" stop="20181019070000 -0300" channel="Bis">
+    <title lang="pt">Nine Inch Nails</title>
+    <sub-title lang="pt">Austin City Limits</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019070000 -0300" stop="20181019080000 -0300" channel="Bis">
+    <title lang="pt">Jazz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019080000 -0300" stop="20181019083000 -0300" channel="Bis">
+    <title lang="pt">Setlist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019083000 -0300" stop="20181019090000 -0300" channel="Bis">
+    <title lang="pt">Audioarena Originals</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019090000 -0300" stop="20181019093000 -0300" channel="Bis">
+    <title lang="pt">Superstar Djs With Annie Mac</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019093000 -0300" stop="20181019100000 -0300" channel="Bis">
+    <title lang="pt">Stand Your Ground</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019100000 -0300" stop="20181019110000 -0300" channel="Bis">
+    <title lang="pt">Radio 1's Big Weekend 2017: Highlights 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019110000 -0300" stop="20181019120000 -0300" channel="Bis">
+    <title lang="pt">Alanis Morrissette: Live At Montreaux 2012</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019120000 -0300" stop="20181019130000 -0300" channel="Bis">
+    <title lang="pt">Later With Jools Holland</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019130000 -0300" stop="20181019140000 -0300" channel="Bis">
+    <title lang="pt">Versões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019140000 -0300" stop="20181019150000 -0300" channel="Bis">
+    <title lang="pt">Guitar Center Sessions</title>
+    <sub-title lang="pt">Megadeth</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019150000 -0300" stop="20181019160000 -0300" channel="Bis">
+    <title lang="pt">Nine Inch Nails</title>
+    <sub-title lang="pt">Austin City Limits</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019160000 -0300" stop="20181019170000 -0300" channel="Bis">
+    <title lang="pt">Experimente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019170000 -0300" stop="20181019180000 -0300" channel="Bis">
+    <title lang="pt">Front And Center Presents: George Ezra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019180000 -0300" stop="20181019190000 -0300" channel="Bis">
+    <title lang="pt">Setlist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019190000 -0300" stop="20181019193000 -0300" channel="Bis">
+    <title lang="pt">A Volta ao Mundo em 80 Videoclipes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019193000 -0300" stop="20181019200000 -0300" channel="Bis">
+    <title lang="pt">Álbum Musical</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019200000 -0300" stop="20181019203000 -0300" channel="Bis">
+    <title lang="pt">Canto Só</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019203000 -0300" stop="20181019210000 -0300" channel="Bis">
+    <title lang="pt">The Ronnie Wood Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019210000 -0300" stop="20181019220000 -0300" channel="Bis">
+    <title lang="pt">Bestival 2016 Festival Highlights</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019220000 -0300" stop="20181019230000 -0300" channel="Bis">
+    <title lang="pt">One Republic</title>
+    <sub-title lang="pt">Live In South Africa</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019230000 -0300" stop="20181019233000 -0300" channel="Bis">
+    <title lang="pt">Dance Paradise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019233000 -0300" stop="20181020000000 -0300" channel="Bis">
+    <title lang="pt">Audioarena Originals</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
